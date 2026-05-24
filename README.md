@@ -1,4 +1,4 @@
-````markdown
+
 # PyDuplicateFinder
 
 A Python-based duplicate file finder that recursively scans directories and detects duplicate files using SHA256 hashing.
